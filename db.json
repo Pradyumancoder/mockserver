@@ -4,7 +4,7 @@
       "id": 1,
       "brand": "Tata",
       "year": 2019,
-			"type":"Manual",
+      "type": "Manual",
       "kms": 10000,
       "Description": "Tata Altroz with all original documents",
       "Price": 500000
@@ -12,29 +12,34 @@
     {
       "id": 2,
       "brand": "Tata",
-			"type":"AMT",
+      "type": "AMT",
       "year": 2017,
       "kms": 8000,
       "Description": "Tata Nexon with all original documents",
       "Price": 800000
     }
   ],
-"wishlisted_cars": [
+  "wishlisted_cars": [
     {
       "id": 1,
       "brand": "Tata",
       "year": 2019,
-			"type":"Manual",
+      "type": "Manual",
       "kms": 10000,
       "Description": "Tata Altroz with all original documents",
       "Price": 500000
     }
   ],
-  "userdata":[
+  "userdata": [
     {
-      "email":"p@gmail.com",
-      "username":"p1250",
-      "password":"123456"
+      "email": "p@gmail.com",
+      "username": "p1250",
+      "password": "123456"
+    }
+  ],
+  "task": [
+    {
+      "text": "first task"
     }
   ]
 }
