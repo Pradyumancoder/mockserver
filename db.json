@@ -29,5 +29,12 @@
       "Description": "Tata Altroz with all original documents",
       "Price": 500000
     }
+  ],
+  "userdata":[
+    {
+      "email":"p@gmail.com",
+      "username":"p1250",
+      "password":"123456"
+    }
   ]
 }
