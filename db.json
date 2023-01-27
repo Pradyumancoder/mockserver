@@ -518,6 +518,14 @@
       "seats": "7 Seats",
       "price": "₹14,381"
     }
-  ]
+  ],
 
+  "task":[
+    {
+     "email":"ns@gmail.com",
+     "username":"pradyuman",
+     "password":"shukla123",
+     "cnfpassword":"shukla123"
+    }
+  ]
 }
